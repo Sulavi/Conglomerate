@@ -9,9 +9,13 @@
 
 <BODY>
 
-<?php include 'header.php' ?>
+	<?php include 'header.php' ?>
 
-This is the body of the index.
+		<div id="main">
+		
+			main div
+		
+		</div>
 
 </BODY>
 
