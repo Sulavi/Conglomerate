@@ -11,7 +11,7 @@
 
 	<?php include 'header.php' ?>
 
-		<div id="main">
+		<div class="main">
 		
 			main div
 		

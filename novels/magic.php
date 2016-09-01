@@ -8,5 +8,9 @@
 
 	<?php include "../header.php" ?>
 
+	<div class="main">
+	Dangerous Magic
+	</div>
+	
 </body>
 </html>
